@@ -1,2 +1,2 @@
 # CursoIntroPython
- Katas y ejercicios de CursoIntroPython
+ Katas de CursoIntroPython
